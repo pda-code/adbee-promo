@@ -21,8 +21,12 @@ To μόνο που χρειάζεται ειναι να περιηγηθείτε
 - και πολλά άλλα.
 
 # Screen shots
+
+## Login
 ![login](images/login.jpg)
 
+## Αρχική Οθόνη - Λίστα με αγγελίες
+![login](images/ads.jpg)
 
 
 
