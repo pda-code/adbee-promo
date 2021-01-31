@@ -15,4 +15,4 @@ To spearfishing.adbee.gr είναι μία πλατφόρμα ανάρτησης
 
 To μόνο που χρειάζεται ειναι να περιηγηθείτε στις κατηγορίες που υπάρχουν στο spearfishing.adbee.gr ώστε να εντοπίσετε το αντικειμενο που σας ενδιαφέρει ή να αναρτήσετε και εσείς (απαιτείται login) τα δικάς σας πράγματα προς πώληση
 
-Περισσότερα [spearfishing.adbee.gr](https://spearfishing.adbee.gr)
+Περισσότερα [πατήστε εδώ](https://pda-code.github.io/adbee-promo/)
