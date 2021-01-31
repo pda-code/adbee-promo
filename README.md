@@ -1,7 +1,7 @@
 # spearfishing.adbee.ge
 
 
-Καλως ήρθατε στο [spearfishing.adbee.gr](https://spearfishing.adbee.gr), την "Mελισσούλα των Aγγελιών"
+🌟 🌟 Καλως ήρθατε στο [spearfishing.adbee.gr](https://spearfishing.adbee.gr), την "Mελισσούλα των Aγγελιών"
 
 ![](https://pda-code.github.io/adbee-promo/images/logo.png)
 
